@@ -1,4 +1,4 @@
-package accounts;
+package thirdTask;
 
 import dbService.DBException;
 import dbService.DBService;

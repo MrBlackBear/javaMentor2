@@ -1,8 +1,9 @@
-package servlets;
+package thirdTask.servlets;
 
 import accounts.AccountService;
 import dbService.DBException;
 import dbService.dataSets.UsersDataSet;
+import thirdTask.AccountService;
 
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
