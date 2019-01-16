@@ -1,4 +1,4 @@
-package dbService;
+package thirdTask.dbService;
 
 public class DBException extends Exception {
     public DBException(Throwable throwable) {

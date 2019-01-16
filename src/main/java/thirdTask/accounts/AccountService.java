@@ -1,7 +1,7 @@
-package thirdTask;
+package thirdTask.accounts;
 
-import dbService.DBException;
-import dbService.DBService;
+import thirdTask.dbService.DBException;
+import thirdTask.dbService.DBService;
 import dbService.dao.UsersDAO;
 import dbService.dataSets.UsersDataSet;
 

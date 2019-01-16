@@ -1,4 +1,4 @@
-package dbService;
+package thirdTask.dbService;
 
 import dbService.dao.UsersDAO;
 import dbService.dataSets.UsersDataSet;
